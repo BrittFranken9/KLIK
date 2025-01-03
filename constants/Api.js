@@ -1,1 +1,1 @@
-export const API_URL = 'https://my-express-app-nawn.onrender.com';
+export const API_URL = 'https://klik-express.onrender.com';
